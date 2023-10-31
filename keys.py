@@ -1,1 +1,1 @@
-secret_key = "abunchofgibberish"
+secret_key = "adifferentsecretkey"
