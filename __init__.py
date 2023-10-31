@@ -3,7 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 from flask_login import LoginManager
 import os
-from NHLProjectFiles.keys import secret_key
+from NHLProjectFiles.localkeys import secret_key
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 
